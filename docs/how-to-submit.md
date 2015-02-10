@@ -8,6 +8,8 @@ This year we are submitting talks in the open on GitHub! We like this format bec
 * allows the community to chime in if they’re excited about a talk,
 * and your submissions are editable! 
 
+We love open submissions because you can check out the submissions and see what's there! Feel free to take a look around before submitting your own! Even if you’re not submitting a talk, we'd love it if you'd read through submissions and :+1: the ones you’d be interested in! (_More about community interaction [here](https://github.com/SassConf/2015-speaker-cfp/blob/master/docs/how-to-submit.md#the-community-can-chime-in)._)
+
 _If you are uncomfortable with submitting your talk publicly for **any reason**, you can always email your submission to [info@sassconf.com](mailto:info@sassconf.com). instead. All the other instructions remain the same!_
 
 * * * 

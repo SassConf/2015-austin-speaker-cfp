@@ -4,9 +4,9 @@ _A conference for front-end developers and designers that love Sass and are pass
 
 ## Call for Proposals
 
-The original all-Sass-all-the-time conference is back in 2015, and we think this year will be better than ever! But we can’t do that alone: we need speakers of all experience levels and backgrounds to make SassConf amazing. **We invite *you* to submit a talk, lightning talk, workshop, or moderated discussion.**
+The original all-Sass-all-the-time conference is back in 2015, and we think this year will be better than ever! But we can’t do it alone: we need speakers of all experience levels and backgrounds to make SassConf amazing. **We invite *you* to submit a talk, lightning talk, workshop, or moderated discussion.** (Find out more about our submission types [here](https://github.com/SassConf/2015-speaker-cfp/blob/master/docs/submission-guidelines.md).)
 
-**You do not need to be an experienced speaker to submit.** This year we’re doing more [speaker prep and mentoring](https://github.com/SassConf/2015-speaker-cfp/blob/master/docs/mentoring-speaker-prep.md) than ever before, and want to work with you to make the best presentation you can give. Whether you need to workshop a new idea or get over some first-timer nerves, the SassConf Speaker team is making it a priority to help you out. 
+**You do not need to be an experienced speaker to submit.** This year we’re doing more [speaker prep and mentoring](https://github.com/SassConf/2015-speaker-cfp/blob/master/docs/mentoring-speaker-prep.md) than ever before, and want to work with you to make the best presentation you can give. You don’t need to submit a talk to help us make this conference awesome, either! We'd love it if you read through submissions and :+1: them to let us know what you're excited about.
 
 * * * 
 
@@ -17,7 +17,7 @@ The deadline to submit a proposal is *May 20th, 2015*. If it’s still May 20th 
 ##### Location & Date
 SassConf will be held in **New York City** in Fall 2015. Exact dates and venue TBD.
 ##### Size
-Past SassConfs have been approximately 150 attendees. It is a one-track conference, so all attendees will see your talk. Workshops are typically in the 50 person range.
+Past SassConfs have been approximately 150 attendees. It is a one-track conference, so all attendees will see your talk. For size info on workshops and moderated discussions, check out the [Submission Guidelines](https://github.com/SassConf/2015-speaker-cfp/blob/master/docs/submission-guidelines.md).
 
 * * * 
 
