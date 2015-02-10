@@ -1,18 +1,15 @@
 ## Submission Template
 
 ```
-# Title of Presentation
+# Title of Presentation (required)
 
-## Type of Presentation
-
-Select:
-
+## Type of Presentation (required)
 [  ] Standard Length Talk
 [  ] Lightning Talk
 [  ] Workshop
 [  ] Moderated Discussion
 
-## Description
+## Description (required)
 
 [A description of your presentation goes here. Please don't give us a 140 character elevator pitch—tell us what you want to talk about. Give us an outline. Bullet points. A long rambly description of an idea. Tell us your dreams.
 
@@ -24,23 +21,21 @@ Fine Print:
 
 If you are submitting a Moderated Discussion, please write about the topic you want to discuss in your small group.]
 
-### Workshops Only: Exercise
+### Workshops: Coding Exercise (required for workshops only)
 
 [If you are submitting a workshop, please write a few sentences about the type of coding exercise you’ll be having attendees work on during your workshop.]
 
-### Moderated Discussions Only: Topic & Questions
+### Moderated Discussions: Topic & Questions (required for discussions only)
 
 [If you are suggesting a Moderated Discussion, please write a few questions about your topic that you’d like to ask your small group, or the types of questions you hope to get re: your topic.]
 
-## Speaker Info
-
-_This information is required._
+## Speaker Info (required)
 
 * Name      : Carol Danvers
 * Location  : NYC, NY
 * Contact   : msmarvel@avengers.com
 
-## Bonus Info
+## More Info (optional)
 
 Social Media:
 

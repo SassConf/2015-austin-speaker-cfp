@@ -2,6 +2,8 @@
 
 This year we are accepting the following types of submissions. 
 
+* * * 
+
 ### Standard Talk
 
 **40 minutes, with slides, no Q&A.**

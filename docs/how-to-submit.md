@@ -9,6 +9,8 @@ This year we are submitting talks in the open on GitHub! We like this format bec
 
 _If you are uncomfortable with submitting your talk publicly for _any reason_, you can always email your submission to [info@sassconf.com](mailto:info@sassconf.com). instead. All the other instructions remain the same!_
 
+* * * 
+
 #### Steps to Submit
 
 1. [Create a free GitHub account](https://github.com/join) if you don’t have one already.
@@ -18,6 +20,9 @@ _If you are uncomfortable with submitting your talk publicly for _any reason_, y
 5. Submit your proposal!
 
 Remember, because we’re on GitHub, submissions are editable. Typos? Want to change your outline? Have other bonus materials to add, like photos, slides, or code? Come back and add more until submissions close.
+
+* * * 
+
 
 #### What’s Required?
 
@@ -31,11 +36,17 @@ The following items are _required_ for your submission to be considered:
 
 _If you don’t feel comfortable sharing your name, location, or contact information, please write “N/A” for that item and then email us directly at [info@sassconf.com](mailto:info@sassconf.com) with the information and a link to your submission issue._
 
+* * * 
+
+
 #### What’s Preferred?
 
 We’d love to have a short bio, a photo of you, or any other details like your blog, Twitter, or anything else.
 
 If you are accepted, a bio and photo will be required.
+
+* * * 
+
 
 #### Labels
 

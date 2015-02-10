@@ -2,7 +2,9 @@
 
 This year we are putting a lot of focus on Speaker mentoring and preparation. We aim to have a quality event with unique and interesting talks, but we know that doesn’t happen in a vacuum. Not everyone is a natural public speaker, or knows how to make a great coding exercise, or maybe you aren’t sure what to speak about. That’s OK.
 
-During the CFP, the Speaker Team will be happy to help you brainstorm to figure out what you can speak about, answer any questions you may have, and put you in touch with speaking mentors, local events to practice your talk at, or anything else you need.
+While the CFP is open, the Speaker team will be happy to help you brainstorm to figure out what you can speak about, answer any questions you may have, and put you in touch with speaking mentors, local events to practice your talk at, or anything else you need.
+
+Because the Speaker team will be selecting talks, we can't help you write or edit your proposal itself. However, we plan to have a few mentors available for you that will not be part of the selecting Speaker team to help out with that.
 
 Once speakers are selected, we will also have a Review team dedicated to helping them prepare for their talks. Speakers will have regular check-ins with the Review team.
 
