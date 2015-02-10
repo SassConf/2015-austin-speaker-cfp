@@ -4,7 +4,7 @@ _A conference for front-end developers and designers that love Sass and are pass
 
 ## Call for Proposals
 
-The original all-Sass-all-the-time conference is back in 2015, and we think this year will be better than ever! But we can’t do that alone: we need speakers of all experience levels and backgrounds to make SassConf amazing. **We invite *you* to submit a talk, lightning talk, workshop, or moderated discussion.** Check out the [Topics Requested] section for ideas, and the [Submission Guidelines] for more details.
+The original all-Sass-all-the-time conference is back in 2015, and we think this year will be better than ever! But we can’t do that alone: we need speakers of all experience levels and backgrounds to make SassConf amazing. **We invite *you* to submit a talk, lightning talk, workshop, or moderated discussion.** Check out the [What to Submit](https://github.com/SassConf/2015-speaker-cfp/blob/master/what-to-submit.md) section for ideas, and the [Submission Guidelines] for more details.
 
 You do not need to be an experienced speaker to submit. This year we’re doing more speaker prep and mentoring than ever before, and want to work with you to make the best presentation you can give. Whether you need to workshop a new idea or get over some first-timer nerves, the SassConf Speaker team is making it a priority to help you out. 
 
