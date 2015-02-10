@@ -9,4 +9,4 @@ _If you have concerns about travel or the cost of attending SassConf, such as di
 
 * * * 
 
-Next: Code of Conduct
+Next: [Code of Conduct](https://github.com/SassConf/2015-speaker-cfp/blob/master/docs/code-of-conduct.md)

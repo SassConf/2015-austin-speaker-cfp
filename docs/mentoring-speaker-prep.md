@@ -17,4 +17,4 @@ If you need more encouragement or some material on submitting a good proposal, c
 
 * * * 
 
-Next: Selection Process
+Next: [Selection Process](https://github.com/SassConf/2015-speaker-cfp/blob/master/docs/selection-process.md)

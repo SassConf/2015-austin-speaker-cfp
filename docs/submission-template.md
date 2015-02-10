@@ -66,4 +66,4 @@ _Photo/Art by [Eric Koda](http://executiveorder9066.deviantart.com/art/Captain-M
 
 * * * 
 
-Next: Mentoring & Speaker Prep
+Next: [Mentoring & Speaker Prep](https://github.com/SassConf/2015-speaker-cfp/blob/master/docs/mentoring-speaker-prep.md)

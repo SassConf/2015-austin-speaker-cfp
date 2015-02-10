@@ -10,4 +10,4 @@ _We'll be posting more details about the speaker selection process and selection
 
 * * * 
 
-Next: Speaker Benefits
+Next: [Speaker Benefits](https://github.com/SassConf/2015-speaker-cfp/blob/master/docs/speaker-benefits.md)

@@ -32,4 +32,4 @@ This year we are bringing in a new concept based off the success of last year’
 
 * * * 
 
-Next: How to Submit
+Next: [How to Submit](https://github.com/SassConf/2015-speaker-cfp/blob/master/docs/how-to-submit.md)

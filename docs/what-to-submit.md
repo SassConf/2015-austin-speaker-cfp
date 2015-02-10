@@ -30,4 +30,4 @@ If you’re not sure about your presentation topic or want some help with it, yo
 
 * * * 
 
-Next: Submission Guidelines
+Next: [Submission Guidelines](https://github.com/SassConf/2015-speaker-cfp/blob/master/docs/submission-guidelines.md)

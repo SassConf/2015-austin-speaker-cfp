@@ -57,4 +57,4 @@ Once you submit your new issue, there are quite a few labels available for your 
 
 * * * 
 
-Next: Submission Template
+Next: [Submission Template](https://github.com/SassConf/2015-speaker-cfp/blob/master/docs/submission-template.md)
