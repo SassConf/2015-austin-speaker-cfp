@@ -8,7 +8,7 @@ This year we are submitting talks in the open on GitHub! We like this format bec
 * allows the community to chime in if they’re excited about a talk,
 * and your submissions are editable! 
 
-_If you are uncomfortable with submitting your talk publicly for _any reason_, you can always email your submission to [info@sassconf.com](mailto:info@sassconf.com). instead. All the other instructions remain the same!_
+_If you are uncomfortable with submitting your talk publicly for **any reason**, you can always email your submission to [info@sassconf.com](mailto:info@sassconf.com). instead. All the other instructions remain the same!_
 
 * * * 
 
