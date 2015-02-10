@@ -8,6 +8,8 @@ This year we are accepting the following types of submissions.
 
 These are your standard conference talks. In a talk this long, it’s important to tell a good story. Talk about the how, and the why; don’t just inundate us with code.
 
+* * * 
+
 ### Lightning Talks
 
 **15 minutes, with or without slides, no Q&A.**
@@ -16,11 +18,15 @@ If you have an idea for a shorter talk, are a beginning speaker who wants to get
 
 Last year’s lightning talks included Una Kravets talking about [how to build a local Sass community](http://una.github.io/sassconf-2014/), and Katie K [schooling us on color theory](https://rawgit.com/KatieK2/2014-sassconf/master/index.html). Both got an amazing reception from the attendees, so don’t think that it’s not as “cool” to submit a short talk!
 
+* * * 
+
 ### Workshops
 
 **4 hour, large group technical deep dives.**
 
 The definition of a workshop is “a meeting at which a group of people engage in _intensive discussion and activity_” so please keep in mind that a workshop _is not_ a very long talk. Workshops must have an interactive, coding portion or exercise, and include Q&A or group work time. The 4 hours also includes plenty of break time! You may co-submit workshops or submit individually.
+
+* * * 
 
 ### Moderated Discussions
 
