@@ -4,12 +4,13 @@ Because this is *Sass*Conf, we’d like our talks to heavily feature, you guesse
 
 We’d love to hear about:
 
-* a technical demo of something crazy you built with Sass
-* how you’re architecting your code
-* a deep dive on a Sass feature
-* the Sass and dev community, diversity, or local events
-* how to work with a large dev team 
-* using Sass for theming, internationalization, etc
+* a technical deep dive lighting talk—the perfect amount of time to get code-heavy!,
+* how you’re architecting big projects or legacy codebases,
+* a deep dive on a Sass language feature,
+* the Sass and dev community, diversity, or local events,
+* how to work with a large dev team,
+* using Sass for theming, internationalization, etc,
+* (but don't just limit yourself to our ideas!)
 
 We would prefer you not submit:
 

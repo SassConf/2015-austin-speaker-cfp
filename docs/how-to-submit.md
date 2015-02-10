@@ -24,6 +24,8 @@ _If you are uncomfortable with submitting your talk publicly for **any reason**,
 
 Remember, because we’re on GitHub, submissions are editable. Typos? Want to change your outline? Have other bonus materials to add, like photos, slides, or code? Come back and add more until submissions close.
 
+You're also more than welcome to submit multiple presentations!
+
 * * * 
 
 
