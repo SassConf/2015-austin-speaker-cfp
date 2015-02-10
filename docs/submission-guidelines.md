@@ -28,3 +28,8 @@ The definition of a workshop is “a meeting at which a group of people engage i
 
 This year we are bringing in a new concept based off the success of last year’s Unconference: Moderated Discussions. These will be small group (10-15 people) sessions where everyone is/can be participatory. As the moderator, you’ll lead a conversation around a certain topic, talk about attendees particular experiences on a technical detail, or ask questions to the group. 
 
+
+
+* * * 
+
+Next: How to Submit

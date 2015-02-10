@@ -14,8 +14,6 @@ The original all-Sass-all-the-time conference is back in 2015, and we think this
 
 The deadline to submit a proposal is *May 20th, 2015*. If it’s still May 20th where you are, you can still submit. You can edit your submission as much as you like up until the end of the day on May 20th.
 
-#### Conference Details
-
 ##### Location & Date
 SassConf will be held in **New York City** in Fall 2015. Exact dates and venue TBD.
 ##### Size

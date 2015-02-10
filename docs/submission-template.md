@@ -63,3 +63,7 @@ _Photo/Art by [Eric Koda](http://executiveorder9066.deviantart.com/art/Captain-M
 ```
 
 
+
+* * * 
+
+Next: Mentoring & Speaker Prep

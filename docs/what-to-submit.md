@@ -28,3 +28,6 @@ If you’re not sure about your presentation topic or want some help with it, yo
 * Email the SassConf team at [info@sassconf.com](mailto:info@sassconf.com) or a member of the Speaker team if you have private questions, or
 * submit and tag your proposal as `constructive-crit` and the Speaker team will comment or get in touch.
 
+* * * 
+
+Next: Submission Guidelines

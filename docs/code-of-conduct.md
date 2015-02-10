@@ -9,3 +9,7 @@ If you don’t know why a CoC is important, have questions or concerns about our
 > SassConf is dedicated and committed to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. Sexual and discriminating language and imagery is not appropriate for any conference venue, including talks.
 
 [Read the entire CoC here.](http://sassconf.com/code-of-conduct/)
+
+
+* * * 
+

@@ -14,3 +14,7 @@ If you need more encouragement or some material on submitting a good proposal, c
 - Raquel Velez,  [Is Your Conference Proposal Good Enough?](http://rckbt.me/2014/01/conference-proposals/)
 - Chris Williams, [An Addendum About Conference Proposals](http://blog.voodootikigod.com/an-addendum-about-conference-proposals/)
 - Zach Holman, [speaking.io](http://speaking.io/plan/writing-a-cfp/)
+
+* * * 
+
+Next: Selection Process

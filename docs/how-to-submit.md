@@ -54,3 +54,7 @@ Once you submit your new issue, there are quite a few labels available for your 
 `accepted` we will add this label once a talk is officially accepted
 
 
+
+* * * 
+
+Next: Submission Template
