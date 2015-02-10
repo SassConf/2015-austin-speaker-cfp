@@ -3,6 +3,7 @@
 This year we are submitting talks in the open on GitHub! We like this format because it:
 
 * helps us keep better track of all the submissions,
+* you can see what else has been submitted to get ideas,
 * allows us to comment and discuss submissions with you,
 * allows the community to chime in if they’re excited about a talk,
 * and your submissions are editable! 
@@ -62,10 +63,15 @@ Once you submit your new issue, there are quite a few labels available for your 
 
 `constructive-crit` if you want constructive criticism or feedback on your submission, add this label
 
-`accepted` we will add this label once a talk is officially accepted
+* * * 
 
+##### "the community can chime in"!?
 
+One of the cool things about doing an open CFP is that attendees who are _not_ submitting talks can comment on submissions. We want to select talks that attendees want to see, so if you're an attendee and see a talk you are excited about or have a question about, feel free to comment with a :+1: or question. 
+
+That said, we'd like to keep this a comfortable environment for submitting speakers. It's nervewracking to put your work out there, so please avoid unsolicited criticism, negative comments, or any kind of drama. The comments _will_ be moderated for anything that violates our [Code of Conduct](https://github.com/SassConf/2015-speaker-cfp/blob/master/docs/code-of-conduct.md) will be deleted.
 
 * * * 
+
 
 Next: [Submission Template](https://github.com/SassConf/2015-speaker-cfp/blob/master/docs/submission-template.md)

@@ -52,3 +52,7 @@ We know it's a lot of work to submit and give talks, so we're gonna take care of
 
 #### [Code of Conduct](https://github.com/SassConf/2015-speaker-cfp/blob/master/docs/code-of-conduct.md)
 Yes: we have a code of conduct, and yes, we will enforce it. 
+
+* * * 
+
+And finally, a special [thank you](https://github.com/SassConf/2015-speaker-cfp/blob/master/docs/thanks.md) to some special groups and people for helping us improve our CFP and make SassConf a reality!

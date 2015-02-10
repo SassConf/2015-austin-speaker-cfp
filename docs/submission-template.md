@@ -37,21 +37,21 @@ If you are submitting a Moderated Discussion, please write about the topic you w
 
 ## More Info (optional)
 
-Social Media:
+##### Social Media:
 
 * Twitter   : [@msmarvel](url to twitter account)
 * GitHub    : [msmarvel](url to GitHub account)
 * Url(s)    : [msmarvel.com](url to relevant sites)
 
-Bio:
+##### Bio:
 
 I’m an example bio. I'm an ex-Air Force pilot superhero who possesses the powers of flight, super strength, invulnerability, and cosmic energy blasts. I love a good costume change and [a snarky one-liner](http://caroldanversspeaking.tumblr.com/).
 
+##### Photo:
 
+![Avatar](http://41.media.tumblr.com/7a491658ca955d791a622130b175f5bf/tumblr_nhvw6w9Ceq1qdep0so1_500.jpg)
 
-Photo:
-
-![http://41.media.tumblr.com/7a491658ca955d791a622130b175f5bf/tumblr_nhvw6w9Ceq1qdep0so1_500.jpg](url to avatar image goes here)
+_replace with your URL_
 
 _Photo/Art by [Eric Koda](http://executiveorder9066.deviantart.com/art/Captain-Marvel-505767671)._
 
