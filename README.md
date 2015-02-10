@@ -4,7 +4,7 @@ _A conference for front-end developers and designers that love Sass and are pass
 
 ## Call for Proposals
 
-The original all-Sass-all-the-time conference is back in 2015, and we think this year will be better than ever! But we can’t do that alone: we need speakers of all experience levels and backgrounds to make SassConf amazing. **We invite *you* to submit a talk, lightning talk, workshop, or moderated discussion.** Check out the [What to Submit](https://github.com/SassConf/2015-speaker-cfp/blob/master/what-to-submit.md) section for ideas, and the [Submission Guidelines] for more details.
+The original all-Sass-all-the-time conference is back in 2015, and we think this year will be better than ever! But we can’t do that alone: we need speakers of all experience levels and backgrounds to make SassConf amazing. **We invite *you* to submit a talk, lightning talk, workshop, or moderated discussion.** Check out the [What to Submit](https://github.com/SassConf/2015-speaker-cfp/blob/master/what-to-submit.md) section for ideas, and the [Submission Guidelines](https://github.com/SassConf/2015-speaker-cfp/blob/master/submission-guidelines.md) for more details.
 
 You do not need to be an experienced speaker to submit. This year we’re doing more speaker prep and mentoring than ever before, and want to work with you to make the best presentation you can give. Whether you need to workshop a new idea or get over some first-timer nerves, the SassConf Speaker team is making it a priority to help you out. 
 
@@ -19,29 +19,28 @@ SassConf will be held in **New York City** in Fall 2015. Exact dates and venue T
 ##### Size
 Past SassConfs have been approximately 150 attendees. It is a one-track conference, so all attendees will see your talk. Workshops are typically in the 50 person range.
 
+* * *
 
-## Submission Information
-
-### What to Submit
+### [What to Submit](https://github.com/SassConf/2015-speaker-cfp/blob/master/what-to-submit.md)
 Not sure what to submit? We've got some tips/guidelines for the types of presentations we'd like to see, as well as some suggested topics if you need an idea!
 
-### Submission Guidelines
+### [Submission Guidelines](https://github.com/SassConf/2015-speaker-cfp/blob/master/submission-guidelines.md)
 This year we are accepting **talks, lightning talks, workshops, and moderated discussions.** 
 
-### How to Submit
+### [How to Submit](https://github.com/SassConf/2015-speaker-cfp/blob/master/how-to-submit.md)
 This year we are submitting talks in the open on GitHub! Steps and information about required details in here!
 
-### Submission Template
+### [Submission Template](https://github.com/SassConf/2015-speaker-cfp/blob/master/submission-template.md)
 To submit a presentation, copy this template and make a new issue!
 
-### Mentoring & Speaker Prep
+### [Mentoring & Speaker Prep](https://github.com/SassConf/2015-speaker-cfp/blob/master/mentoring-speaker-prep.md)
 This year we are focusing on helping our submitters have a great submission, as well as working closely with speakers after they are selected to make their presentations great.
 
-### Selection Process
+### [Selection Process](https://github.com/SassConf/2015-speaker-cfp/blob/master/selection-process.md)
 How we're selecting speakers this year.
 
-### Speaker Benefits
+### [Speaker Benefits](https://github.com/SassConf/2015-speaker-cfp/blob/master/speaker-benefits.md)
 We know it's a lot of work to submit and give talks, so we're gonna take care of you!
 
-### Code of Conduct
+### [Code of Conduct](https://github.com/SassConf/2015-speaker-cfp/blob/master/code-of-conduct.md)
 Yes: we have a code of conduct, and yes, we will enforce it. 
