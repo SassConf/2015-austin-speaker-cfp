@@ -6,4 +6,4 @@ Despite activity on your submission, no talk is accepted until a confirmation em
 
 After submissions close, the Speaker team will review and select submissions. We aim for you to have 3-4 months advance notice.
 
-
+_We'll be posting more details about the speaker selection process and selection teams soon!_

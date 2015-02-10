@@ -4,9 +4,13 @@ _A conference for front-end developers and designers that love Sass and are pass
 
 ## Call for Proposals
 
-The original all-Sass-all-the-time conference is back in 2015, and we think this year will be better than ever! But we can’t do that alone: we need speakers of all experience levels and backgrounds to make SassConf amazing. **We invite *you* to submit a talk, lightning talk, workshop, or moderated discussion.** Check out the [What to Submit](https://github.com/SassConf/2015-speaker-cfp/blob/master/what-to-submit.md) section for ideas, and the [Submission Guidelines](https://github.com/SassConf/2015-speaker-cfp/blob/master/submission-guidelines.md) for more details.
+The original all-Sass-all-the-time conference is back in 2015, and we think this year will be better than ever! But we can’t do that alone: we need speakers of all experience levels and backgrounds to make SassConf amazing. **We invite *you* to submit a talk, lightning talk, workshop, or moderated discussion.**
 
-You do not need to be an experienced speaker to submit. This year we’re doing more speaker prep and mentoring than ever before, and want to work with you to make the best presentation you can give. Whether you need to workshop a new idea or get over some first-timer nerves, the SassConf Speaker team is making it a priority to help you out. 
+Need an idea? Check out the [What to Submit](https://github.com/SassConf/2015-speaker-cfp/blob/master/what-to-submit.md) section for tips & suggested topics.
+
+Ready to submit? Be sure to read the [Submission Guidelines](https://github.com/SassConf/2015-speaker-cfp/blob/master/submission-guidelines.md), and then copy the [Submission Template](https://github.com/SassConf/2015-speaker-cfp/blob/master/submission-template.md) and submit [a new issue in this CFP repo](https://github.com/SassConf/2015-speaker-cfp/issues/new)!
+
+**You do not need to be an experienced speaker to submit.** This year we’re doing more [speaker prep and mentoring](https://github.com/SassConf/2015-speaker-cfp/blob/master/mentoring-speaker-prep.md) than ever before, and want to work with you to make the best presentation you can give. Whether you need to workshop a new idea or get over some first-timer nerves, the SassConf Speaker team is making it a priority to help you out. 
 
 #### Deadline to Submit: May 20, 2015
 
@@ -25,13 +29,13 @@ Past SassConfs have been approximately 150 attendees. It is a one-track conferen
 Not sure what to submit? We've got some tips/guidelines for the types of presentations we'd like to see, as well as some suggested topics if you need an idea!
 
 ### [Submission Guidelines](https://github.com/SassConf/2015-speaker-cfp/blob/master/submission-guidelines.md)
-This year we are accepting **talks, lightning talks, workshops, and moderated discussions.** 
+This year we are accepting **talks, lightning talks, workshops, and moderated discussions.** Find out more about all the types of presentations here.
 
 ### [How to Submit](https://github.com/SassConf/2015-speaker-cfp/blob/master/how-to-submit.md)
-This year we are submitting talks in the open on GitHub! Steps and information about required details in here!
+This year we are submitting talks in the open on GitHub! Steps and information about required details in here.
 
 ### [Submission Template](https://github.com/SassConf/2015-speaker-cfp/blob/master/submission-template.md)
-To submit a presentation, copy this template and make a new issue!
+To submit a presentation, copy this template and make a new issue in this repo.
 
 ### [Mentoring & Speaker Prep](https://github.com/SassConf/2015-speaker-cfp/blob/master/mentoring-speaker-prep.md)
 This year we are focusing on helping our submitters have a great submission, as well as working closely with speakers after they are selected to make their presentations great.

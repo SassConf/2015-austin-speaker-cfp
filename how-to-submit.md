@@ -36,3 +36,21 @@ _If you don’t feel comfortable sharing your name, location, or contact informa
 We’d love to have a short bio, a photo of you, or any other details like your blog, Twitter, or anything else.
 
 If you are accepted, a bio and photo will be required.
+
+#### Labels
+
+Once you submit your new issue, there are quite a few labels available for your submission. You don't have to add any, but don't be surprised if we add some to your submission!
+
+`talk` for standard length talk submissions
+
+`lightning-talk` for lightning talk submissions
+
+`workshop` for workshop submissions
+
+`discussion` for moderated discussion submissions
+
+`constructive-crit` if you want constructive criticism or feedback on your submission, add this label
+
+`accepted` we will add this label once a talk is officially accepted
+
+

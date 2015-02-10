@@ -6,7 +6,7 @@ During the CFP, the Speaker Team will be happy to help you brainstorm to figure 
 
 Once speakers are selected, we will also have a Review team dedicated to helping them prepare for their talks. Speakers will have regular check-ins with the Review team.
 
-**More information and details about mentoring and speaker prep TBD.**
+_More information and details about mentoring and speaker prep TBD._
 
 If you need more encouragement or some material on submitting a good proposal, check out these awesome resources:
 
