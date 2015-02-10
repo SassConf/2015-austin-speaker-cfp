@@ -4,5 +4,5 @@ We know it takes a lot of work to submit, write, and give a talk, not to mention
 
 **SassConf will cover our speakers lodging, travel/airfare, and travel to and from the airport. It also includes all conference events. More details on this will be provided to selected speakers.**
 
-_If you have concerns about travel or the cost of attending SassConf, such as disability accommodations, family travel, or anything else, please email us. We’ll do our best to help you out._
+_If you have concerns about travel or the cost of attending SassConf, such as disability accommodations, family travel, or anything else, please email us at [info@sassconf.com](mailto:info@sassconf.com). We’ll do our best to help you out._
 

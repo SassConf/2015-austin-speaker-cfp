@@ -7,13 +7,13 @@ This year we are submitting talks in the open on GitHub! We like this format bec
 * allows the community to chime in if they’re excited about a talk,
 * and your submissions are editable! 
 
-_If you are uncomfortable with submitting your talk publicly for _any reason_, you can always email your submission to [cfp@sassconf.com] instead. All the other instructions remain the same!_
+_If you are uncomfortable with submitting your talk publicly for _any reason_, you can always email your submission to [info@sassconf.com](mailto:info@sassconf.com). instead. All the other instructions remain the same!_
 
 #### Steps to Submit
 
-1. [Create a free GitHub account] if you don’t have one already.
-2. Copy the [template] in the next section.
-3. [Create a new issue here] in our CFP repository.
+1. [Create a free GitHub account](https://github.com/join) if you don’t have one already.
+2. Copy the [Submission Template](https://github.com/SassConf/2015-speaker-cfp/blob/master/docs/submission-template.md).
+3. [Create a new issue](https://github.com/SassConf/2015-speaker-cfp/issues/new)) in our CFP repository.
 4. Paste in the template and fill it out.
 5. Submit your proposal!
 
@@ -29,7 +29,7 @@ The following items are _required_ for your submission to be considered:
 * Presentation title
 * Presentation description
 
-_If you don’t feel comfortable sharing your name, location, or contact information, please write “N/A” for that item and then email us directly [cfp@sassconf.com] with the information and a link to your submission issue._
+_If you don’t feel comfortable sharing your name, location, or contact information, please write “N/A” for that item and then email us directly at [info@sassconf.com](mailto:info@sassconf.com) with the information and a link to your submission issue._
 
 #### What’s Preferred?
 
