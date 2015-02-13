@@ -57,15 +57,11 @@ If you are accepted, a bio and photo will be required.
 
 Once you submit your new issue, there are quite a few labels available for your submission. You don't have to add any, but don't be surprised if we add some to your submission!
 
-`talk` for standard length talk submissions
-
-`lightning-talk` for lightning talk submissions
-
-`workshop` for workshop submissions
-
-`discussion` for moderated discussion submissions
-
-`constructive-crit` if you want constructive criticism or feedback on your submission, add this label
+* `talk` for standard length talk submissions
+* `lightning-talk` for lightning talk submissions
+* `workshop` for workshop submissions
+* `discussion` for moderated discussion submissions
+* `constructive-crit` if you want constructive criticism or feedback on your submission, add this label
 
 * * * 
 
