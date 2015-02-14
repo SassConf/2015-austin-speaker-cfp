@@ -48,7 +48,7 @@ _If you don’t feel comfortable sharing your name, location, or contact informa
 
 We’d love to have a short bio, a photo of you, or any other details like your blog, Twitter, or anything else.
 
-If you are accepted and have consented to our [video/photo poicy](https://github.com/SassConf/2015-speaker-cfp/blob/master/docs/video-photo.md), a bio and photo will be required for use on the website.
+If you are accepted and have consented to our [video/photo policy](https://github.com/SassConf/2015-speaker-cfp/blob/master/docs/video-photo-policy.md), a bio and photo will be required for use on the website.
 
 * * * 
 
