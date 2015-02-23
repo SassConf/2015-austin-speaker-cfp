@@ -24,6 +24,8 @@ Past SassConfs have been approximately 150 attendees. It is a one-track conferen
 ##### Just ready to submit?
 Be sure to read the [Submission Guidelines](https://github.com/SassConf/2015-speaker-cfp/blob/master/docs/submission-guidelines.md), and then copy the [Submission Template](https://github.com/SassConf/2015-speaker-cfp/blob/master/docs/submission-template.md) and submit [a new issue in this CFP repo](https://github.com/SassConf/2015-speaker-cfp/issues/new)!
 
+##  [Submit a Talk](https://github.com/SassConf/2015-speaker-cfp/issues/new)!
+
 
 * * *
 
