@@ -26,6 +26,8 @@ We want to provide our attendees with awesome content and get them inspired. Bec
 If you’re not sure about your presentation topic or want some help with it, you can:
 
 * check out our [Mentoring & Speaker Prep](https://github.com/SassConf/2015-speaker-cfp/blob/master/docs/mentoring-speaker-prep.md) section,
+* join the IRC chat #sassconf on freenode and ask the CFP Mentor team,
+* or sign up for CFP Mentoring office hours!
 * Email the SassConf team at [info@sassconf.com](mailto:info@sassconf.com) or a member of the Speaker team if you have private questions, or
 * submit and tag your proposal as `constructive-crit` and the Speaker team will comment or get in touch.
 

@@ -6,7 +6,9 @@ _A conference for front-end developers and designers that love Sass and are pass
 
 The original all-Sass-all-the-time conference is back in 2015, and we think this year will be better than ever! But we can’t do it alone: we need speakers of all experience levels and backgrounds to make SassConf amazing. **We invite *you* to submit a talk, lightning talk, workshop, or moderated discussion.** (Find out more about our submission types [here](https://github.com/SassConf/2015-speaker-cfp/blob/master/docs/submission-guidelines.md).)
 
-**You do not need to be an experienced speaker to submit.** This year we’re doing more [speaker prep and mentoring](https://github.com/SassConf/2015-speaker-cfp/blob/master/docs/mentoring-speaker-prep.md) than ever before, and want to work with you to make the best presentation you can give. You don’t need to submit a talk to help us make this conference awesome, either! We'd love it if you read through submissions and :+1: them to let us know what you're excited about.
+**You do not need to be an experienced speaker to submit.** This year we’re doing more [speaker prep and mentoring](https://github.com/SassConf/2015-speaker-cfp/blob/master/docs/mentoring-speaker-prep.md) than ever before, and want to work with you to make the best presentation you can give. Our CFP Mentors are available for office hours and on IRC chat to help you out!
+
+You don’t need to submit a talk to help us make this conference awesome, either! We'd love it if you read through submissions and :+1: them to let us know what you're excited about.
 
 * * * 
 
