@@ -12,12 +12,12 @@ You don’t need to submit a talk to help us make this conference awesome, eithe
 
 * * * 
 
-#### Deadline to Submit: May 20, 2015
+#### Deadline to Submit: ~~May 20~~ June 10, 2015
 
-The deadline to submit a proposal is *May 20th, 2015*. If it’s still May 20th where you are, you can still submit. You can edit your submission as much as you like up until the end of the day on May 20th.
+The deadline to submit a proposal ~~is *May 20th, 2015*~~ has been extended to *June 10, 2015* due to the delay in announcing dates. If it’s still June 10th where you are, you can still submit. You can edit your submission as much as you like up until the end of the day on June 10th.
 
 ##### Location & Date
-SassConf will be held in **Austin, Texas** in Fall 2015. Exact dates and venue TBD.
+SassConf will be held in **Austin, Texas** in on *November 11-14 2015*.
 ##### Size
 Past SassConfs have been approximately 150 attendees. It is a one-track conference, so all attendees will see your talk. For size info on workshops and moderated discussions, check out the [Submission Guidelines](https://github.com/SassConf/2015-speaker-cfp/blob/master/docs/submission-guidelines.md).
 
