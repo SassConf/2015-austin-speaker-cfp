@@ -1,6 +1,6 @@
 ## Selection Process
 
-**Submissions close June 10th.** Up until then, you may edit your submission, ask the Speaker team questions, or provide extra materials. The Speaker team may comment and ask questions on your submission, or want to follow up for more information.
+**Submissions are closed.** 
 
 Despite activity on your submission, no talk is accepted until a confirmation email is received. We will respond to everyone who submits a proposal, even if your presentation is not selected.
 
