@@ -2,7 +2,7 @@
 
 _A conference for front-end developers and designers that love Sass and are passionate about building a better, more beautiful web._
 
-## The CFP is now closed. Thank you for submitting!
+## The CFP closed on June 20, 2015. You can see our selected speakers at (sassconf.com)(https://sassconf.com) & buy your ticket today!
 
 
 ##### Location & Date
