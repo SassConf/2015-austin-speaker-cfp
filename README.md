@@ -2,7 +2,9 @@
 
 _A conference for front-end developers and designers that love Sass and are passionate about building a better, more beautiful web._
 
-## The CFP closed on June 20, 2015. You can see our selected speakers at (sassconf.com)[https://sassconf.com] & buy your ticket today!
+
+## The CFP closed on June 20, 2015. You can see our selected speakers at [sassconf.com](https://sassconf.com) & buy your ticket today!
+
 
 ##### Location & Date
 SassConf will be held in **Austin, Texas** in on *November 11-14 2015*.
