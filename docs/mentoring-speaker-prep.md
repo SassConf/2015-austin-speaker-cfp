@@ -26,7 +26,7 @@ Scott and Elyse will be in the chat regularly, and the other mentors will be in 
 
 ### CFP Mentors for 2015
 
-![](http://sassconf.com/assets/img/blog/elyse.jpg)
+![](http://sassconf.com/images/mentors/elyse.jpg)
 
 #### Elyse Holladay [@elyseholladay](http://twitter.com/elyseholladay)
 
@@ -35,7 +35,7 @@ Elyse is a Front-End Architect at RetailMeNot in Austin, TX.  She  loves archite
 _As I’m heading up the SassConf 2015 speaker selection, I’ll of course be available as a CFP mentor at any time! **— Elyse**_
 
 
-![](http://sassconf.com/assets/img/blog/scott.jpg)
+![](http://sassconf.com/images/mentors/scott.jpg)
 
 #### Scott Kellum [@scottkellum](http://twitter.com/scottkellum)
 
@@ -44,7 +44,7 @@ Scott is a a designer and front end developer at Vox Media. He grew up in the su
 _Scott will be helping me head up the CFP Mentor team. He’ll be in the IRC chat as well as helping schedule mentoring sessions. A SassConf/Gotham Sass vet, he has a great sense of community and I’m excited to have him on board! **— Elyse**_
 
 
-![](http://sassconf.com/assets/img/blog/claudina.jpg)
+![](http://sassconf.com/images/mentors/claudina.jpg)
 
 #### Claudina Sarahe [@itsmisscs](http://twitter.com/itsmisscs)
 
@@ -53,7 +53,7 @@ Claudina is the lead organizer of SassConf, and a Front-End Architect at OddBird
 _As the SassConf organizer Claudina has a great sense of what types of talks suit SassConf best. She’s also SO excited to see some new speakers on the docket this year! **— Elyse**_
 
 
-![](http://sassconf.com/assets/img/blog/sam.jpg)
+![](http://sassconf.com/images/mentors/sam.jpg)
 
 #### Sam Kapila [@samkap](http://twitter.com/samkap)
 
@@ -62,7 +62,7 @@ Sam is a designer, educator, and person living in Austin, TX. She’s a Web Desi
 _Sam is an amazing teacher and one of the most encouraging people I’ve ever met. She has a really unique, calm way of explaining things and is lovely to talk to. She’ll be an amazing asset to our potential speakers! **— Elyse**_
 
 
-![](http://sassconf.com/assets/img/blog/jen.jpg)
+![](http://sassconf.com/images/mentors/jen.jpg)
 
 #### Jen Myers [@antiheroine](http://twitter.com/antiheroine)
 
@@ -71,7 +71,7 @@ Jen Myers is a web designer/developer, speaker, writer and teacher in Chicago, a
 _Jen’s awesome speaker mentoring sessions are where I first got the idea for doing CFP mentors, and I’m honored that she agreed to be one for SassConf! She’s an inspiration and gives great advice, so be sure to chat with her about your talk! **— Elyse**_
 
 
-![](http://sassconf.com/assets/img/blog/karolina.jpg)
+![](http://sassconf.com/images/mentors/karolina.jpg)
 
 #### Karolina Szczur [@fox](http://twitter.com/fox)
 
@@ -80,7 +80,7 @@ Karolina is a designer, developer and photographer working with her friends at &
 _Karolina’s amazing outreach and organization of CSS Conf Oakland were so eye-opening for Claudina and I. Karolina is so encouraging and passionate about both diversity and great talks. I know she’ll help make proposals the best they can be! **— Elyse**_
 
 
-![](http://sassconf.com/assets/img/blog/mason.jpg)
+![](http://sassconf.com/images/mentors/mason.jpg)
 
 #### Mason Wendell [@codingdesigner](http://twitter.com/codingdesigner)
 
@@ -89,7 +89,7 @@ Mason Wendell is a coding designer and has been since 1996, back when if you had
 _Mason is a SassConf veteran, and gives some of the most lovely, story-based talks I’ve ever seen, with beautiful slides, too. He’ll be fantastic at helping you figure out how to tell your story! **— Elyse**_
 
 
-![](http://sassconf.com/assets/img/blog/chris.jpg)
+![](http://sassconf.com/images/mentors/chris.jpg)
 
 #### Chris Eppstein [@chriseppstein](http://twitter.com/chriseppstein)
 
@@ -98,7 +98,7 @@ Chris lives in San Jose, CA with his kick-ass family. He writes code and leads s
 _Chris is an amazing addition to this mentoring team—not just as an integral part of the Sass community, but also because he is one of the most genuinely compassionate and inclusive people I’ve ever met. He brings so much love to his work and I know he’ll do the same for this! **— Elyse**_
 
 
-![](http://sassconf.com/assets/img/blog/dan.jpg)
+![](http://sassconf.com/images/mentors/dan.jpg)
 
 #### Dan Denney [@dandenney](http://twitter.com/dandenney)
 
